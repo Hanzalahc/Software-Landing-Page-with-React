@@ -31,5 +31,5 @@ Ensure you have the following installed:
    git clone https://github.com/Hanzalahc/Software-Landing-Page-with-React.git
 
 2. Run & Install:
-   Use npm install and then npm run dev to start the project
+   Use: npm install and after it use: npm run dev to start the project
    
